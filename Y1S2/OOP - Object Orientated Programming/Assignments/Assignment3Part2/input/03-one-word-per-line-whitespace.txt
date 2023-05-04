@@ -1,0 +1,17 @@
+one
+ word
+per
+ line
+with
+ leading
+  and
+trailing
+  whitespace
+but
+ still
+  no
+   punctuation
+  no
+   capitals
+ limited
+ fun

@@ -1,0 +1,12 @@
+one
+word
+per
+line
+no
+whitespace
+no
+punctuation
+no
+capitals
+no
+fun

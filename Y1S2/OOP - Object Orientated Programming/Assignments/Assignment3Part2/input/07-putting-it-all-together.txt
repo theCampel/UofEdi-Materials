@@ -1,0 +1,30 @@
+Finally!
+
+We're putting it all together, so welcome to:
+- lines with only one word
+- blank lines
+- blank lines at the end of the file
+- lines with leading and trailing whitespace
+- lines with multiple spaces between words
+- words and wrods with spelling mistakes and spilling mis takes
+  (you don't have to handle these as spelling mistakes, just as "genuine" words)
+
+Don't celebrate too soon:  check how your processing is handling words
+like "don't" to see how the punctuation is handled and how
+
+You don't have to solve all these problems: just be aware of how
++--------------+
+| entertaining |
++--------------+
+input can be.
+
+You DO NEED to handle basic situation of ignoring white space,
+               no          matter         how          extreme
+and deleting punctuation
+AND handling words with different orthography for the same spelling.
+Treat misspellings and new words.
+
+Happy? :)
+
+Best. File. Ever.
+

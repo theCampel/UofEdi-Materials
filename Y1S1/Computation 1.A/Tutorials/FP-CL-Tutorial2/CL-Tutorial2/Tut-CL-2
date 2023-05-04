@@ -1,0 +1,15 @@
+Exercise 1:
+Several could be the odd one out. Initially I believed B as it had no border around it. Then I believed D as it was the only Blue one. Then I thought C was another option as it was the only round object. Alternatively E as it's the only smaller shape.
+
+Exercise 4:
+1. > and [isThick n | n <- things, isBlue n]
+True
+2. > or [isBig n | n <- things, isOrange n]
+
+Exercise 5:
+1. It is not the case that some Square is Blue
+> not (or [isBlue n | n <- things, isSquare n])
+False
+2. Every Square is not Blue
+> and [not (isBlue n )| n <- things, isSquare n]
+False

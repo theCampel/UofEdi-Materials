@@ -1,0 +1,15 @@
+This
+bit
+is
+also
+skipped
+**START RECORDING IMMEDIATELY AFTER THIS LINE
+keep 1
+keep2
+ keep 3
+ keep  4
+ keep 5
+keep  6
+**STOP RECORDING IMMEDIATELY BEFORE THIS LINE
+This bit is
+also skipped

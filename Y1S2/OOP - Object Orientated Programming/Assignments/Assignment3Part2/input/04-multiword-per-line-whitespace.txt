@@ -1,0 +1,12 @@
+now we
+have multiple words
+per line
+ and with leading
+or trailing whitespace
+   or both like this line
+and  lines  with  white  space  between  words
+some of  which   can    be     variable
+  and a   nightmare  line    with rogue spacing                    everywhere
+but still no punctuation or capitals
+although we do not want to have too much at once
+but we now have a file that does not end with a blank line

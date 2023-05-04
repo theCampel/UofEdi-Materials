@@ -1,0 +1,6 @@
+now we
+have multiple words
+per line
+but still no leading or trailing whitespace
+and no punctuation or capitals
+but at least we are now having some fun
